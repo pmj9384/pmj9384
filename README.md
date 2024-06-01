@@ -14,7 +14,7 @@ game client programmer
  <br/>
 <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=Unity&logoColor=white">  
 <img src="https://img.shields.io/badge/CSharp-007396?style=for-the-badge&logo=CSharp&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-61DAFBstyle=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
    <br/>
    <br/>

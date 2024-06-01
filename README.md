@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=CCEEFF&height=150&section=header&text=박민재&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
+game client programmer
  
 ####  :wave: Welcome my github profile !
 

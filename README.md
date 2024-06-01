@@ -4,7 +4,7 @@
 #### :wave: game client programmer 박민재
 
 
-#### 👤 Career
+#### ⭐ Career
  <br/>
  SMU Unity Game Development Club/President (2023.09 ~ 2023.12)
    <br/>
@@ -18,8 +18,17 @@
 <img src="https://img.shields.io/badge/github-61DAFB?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
    <br/>
-   <br/>
- 
+
+ #### 👤 personal project
+  <br/>
+  <br/>
+
+
+#### 👥 group project
+  <br/>
+  <br/>
+
+
 #### :pencil2: Study log
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmj9384&show_icons=true&theme=radical)
   <br/>

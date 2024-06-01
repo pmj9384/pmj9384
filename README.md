@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=CCEEFF&height=100&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 #### :wave: game client programmer 박민재
- 
- <br/>
- <br/>
   
 ####  :clipboard: Skills
   

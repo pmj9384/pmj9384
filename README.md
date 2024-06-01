@@ -4,7 +4,7 @@
 #### :wave: game client programmer 박민재
 
  <br/>
- #### SMU Unity Game Development Club/President (2023.09 ~ 2023.12)
+ SMU Unity Game Development Club/President (2023.09 ~ 2023.12)
    <br/>
 
   

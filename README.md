@@ -34,4 +34,5 @@
   <br/>
   
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pmj9384=anuraghazra&layout=compact)
 

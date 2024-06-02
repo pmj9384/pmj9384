@@ -33,6 +33,4 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmj9384&show_icons=true&theme=radical)
   <br/>
   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmj9384anuraghazra&layout=compact)
-
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmj9384&layout=compact&theme=nord&hide_border=true" /></a>

@@ -30,9 +30,9 @@
 
 
 #### :pencil2: Study log
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae Park&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmj9384&show_icons=true&theme=radical)
   <br/>
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pmj9384anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmj9384anuraghazra&layout=compact)
 

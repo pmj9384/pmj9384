@@ -8,7 +8,7 @@
 <br/>
    **SMU Unity Game Development Club** / President (2023.09 ~ 2023.12)
 <br/>
-   **SMU Graduation Project** / Team Leader *장려상* (2023.09 ~ 2024.6)
+   **SMU Graduation Project** / Team Leader *(장려상)* (2023.09 ~ 2024.6)
 <br/>
   
 ####  :clipboard: Skills

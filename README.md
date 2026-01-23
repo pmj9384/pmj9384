@@ -27,13 +27,13 @@
 
 #### 👥 group project
   <br/>
-<p align="left">
+<p align="middle">
   <a href="https://github.com/pmj9384/Unity-AnimalBreakOut">
     <img src="https://img.shields.io/badge/Animal_Break_Out-Unity_Action_Game%20%20%20%20%20-blue?style=for-the-badge&logo=unity">
   </a>
 </p>
 
-<p align="left">
+<p align="middle">
   <a href="https://github.com/pmj9384/UnityMiniProjArcher">
     <img src="https://img.shields.io/badge/Archer_Mini_Proj-Unity_Shooting_Game-green?style=for-the-badge&logo=unity">
   </a>

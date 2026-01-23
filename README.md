@@ -5,10 +5,11 @@
 
 
 #### ⭐ Career
- <br/>
- SMU Unity Game Development Club/President (2023.09 ~ 2023.12)
-   <br/>
-
+<br/>
+   **SMU Unity Game Development Club** / President (2023.09 ~ 2023.12)
+<br/>
+   **SMU Graduation Project** / Team Leader - *Participation Prize (장려상)* (2023.09 ~ 2024.6)
+<br/>
   
 ####  :clipboard: Skills
   

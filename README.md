@@ -27,8 +27,12 @@
 
 #### 👥 group project
   <br/>
-  https://github.com/pmj9384/Unity-AnimalBreakOut
-  https://github.com/pmj9384/UnityMiniProjArcher
+<a href="https://github.com/pmj9384/Unity-AnimalBreakOut">
+  <img src="https://img.shields.io/badge/Animal_Break_Out-Unity_Action_Game-blue?style=for-the-badge&logo=unity">
+</a>
+<a href="https://github.com/pmj9384/UnityMiniProjArcher">
+  <img src="https://img.shields.io/badge/Archer_Mini_Proj-Unity_Shooting_Game-green?style=for-the-badge&logo=unity">
+</a>
   <br/>
 
 

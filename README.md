@@ -10,7 +10,7 @@
 <br/>
    **SMU 졸업작품** / 팀장 · 동상 (2023.09 ~ 2024.06)
 <br/>
-   &nbsp;&nbsp;→ AR Foundation 기반 무라벨 제품 광고 시스템 개발
+   &nbsp;&nbsp;→ Unity와 SpringBoot를 연동한 AR 기반 무라벨 제품 정보 제공 시스템 개발
 <br/>
   
 ####  :clipboard: Skills

@@ -22,7 +22,16 @@
 
  #### 👤 personal project
   <br/>
-  
+
+<p align="middle">
+  <a href="https://github.com/pmj9384/TimingBridge">
+    <img src="https://img.shields.io/badge/TimingBridge-Hyper_Casual_Game-orange?style=for-the-badge&logo=unity">
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.Toffees.TimingBridge">
+    <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=googleplay">
+  </a>
+</p>
   <br/>
 
 

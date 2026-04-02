@@ -10,9 +10,7 @@
 <br/>
    **SMU 졸업작품** / 팀장 · 동상 (2023.09 ~ 2024.06)
 <br/>
-   &nbsp;&nbsp;→ AR Foundation 기반 AR 광고 라벨 앱 개발 (팀장)
-<br/>
-   &nbsp;&nbsp;→ QR 큐브 트래킹 → 영상/이미지 광고 라벨 출력 구현
+   &nbsp;&nbsp;→ AR Foundation 기반 무라벨 제품 광고 시스템 개발
 <br/>
   
 ####  :clipboard: Skills

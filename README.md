@@ -6,9 +6,13 @@
 
 #### ⭐ Career
 <br/>
-   **SMU Unity Game Development Club** / President (2023.09 ~ 2023.12)
+   **SMU Unity Game Development Club** / 회장 (2023.09 ~ 2023.12)
 <br/>
-   **SMU Graduation Project** / Team Leader *Bronze Prize* (2023.09 ~ 2024.6)
+   **SMU 졸업작품** / 팀장 · 동상 (2023.09 ~ 2024.06)
+<br/>
+   &nbsp;&nbsp;→ AR Foundation 기반 AR 광고 라벨 앱 개발 (팀장)
+<br/>
+   &nbsp;&nbsp;→ QR 큐브 트래킹 → 영상/이미지 광고 라벨 출력 구현
 <br/>
   
 ####  :clipboard: Skills
@@ -27,10 +31,10 @@
   <a href="https://github.com/pmj9384/TimingBridge">
     <img src="https://img.shields.io/badge/TimingBridge-Hyper_Casual_Game-orange?style=for-the-badge&logo=unity">
   </a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.Toffees.TimingBridge">
-    <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=googleplay">
-  </a>
+</p>
+<p align="middle">
+  기획부터 Play Store 출시까지 1인 개발 전 사이클 경험<br/>
+  GameState FSM · AdMob 연동 · Android 빌드 · 실기기 테스트
 </p>
   <br/>
 

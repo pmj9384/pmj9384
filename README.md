@@ -30,10 +30,6 @@
     <img src="https://img.shields.io/badge/TimingBridge-Hyper_Casual_Game-orange?style=for-the-badge&logo=unity">
   </a>
 </p>
-<p align="middle">
-  기획부터 Play Store 출시까지 1인 개발 전 사이클 경험<br/>
-  GameState FSM · AdMob 연동 · Android 빌드 · 실기기 테스트
-</p>
   <br/>
 
 

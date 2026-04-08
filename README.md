@@ -50,7 +50,7 @@
 
 
 #### :pencil2: Study log
- ![박민재 github 통계](https://github-readme-stats.vercel.app/api?username=pmj9384&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=pmj9384&show_icons=true&theme=radical" />
   <br/>
   
 <a href="https://github.com/pmj9384"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmj9384&layout=compact&theme=nord&hide_border=true" /></a>
